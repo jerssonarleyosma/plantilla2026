@@ -1,0 +1,9 @@
+@tailwind components;
+@layer components {
+  .btn {
+    @apply inline-flex items-center justify-center rounded-lg px-4 py-2 font-semibold;
+  }
+  .btn-primary {
+    @apply bg-red-500 text-white hover:opacity-90;
+  }
+}
