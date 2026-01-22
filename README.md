@@ -78,4 +78,4 @@ export default {
 ## Licencia
 
 MIT
-`Copyright (c) 2026 Jersson Osma`
+`Copyright (c) 2026 Jersson Arley Osma Cifuentes`
