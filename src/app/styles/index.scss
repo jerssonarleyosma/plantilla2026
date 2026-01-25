@@ -1,4 +1,8 @@
+@use "tailwindcss";
+
 @use "./base";
 @use "./components";
 @use "./utilities";
-@use "./scheme"
+@use "./scheme";
+
+@config "../../../tailwind.config.js";
