@@ -1,6 +1,6 @@
 export default {
   plugins: {
     "@tailwindcss/postcss": {},
-    autoprefixer: {},
+    //autoprefixer: {}, si la libreria lo exige se instala con npm install -D autoprefixe
   },
 }
