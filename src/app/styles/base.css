@@ -18,9 +18,20 @@
     -webkit-text-size-adjust: 100%;
   }
 
+  /* Ajustes de scroll suave */
   html:focus-within {
     scroll-behavior: smooth;
   }
+
+  /* dark and light ui */
+  html.dark {
+    color-scheme: dark;
+  }
+
+  html.light {
+    color-scheme: light;
+  }
+
 
   /* Tipografía base y renderizado */
   body {
